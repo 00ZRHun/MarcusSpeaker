@@ -45,7 +45,7 @@ Practicing Lawyer (Corporate & Technology) Marcus Tan & Co., Managing Partner Si
 
 
 ===
-教学大纲
+教学大纲（https://www.classcentral.com/course/edx-media-law-13440）
 第一周
 
 媒体法概论
@@ -178,10 +178,3 @@ Practicing Lawyer (Corporate & Technology) Marcus Tan & Co., Managing Partner Si
 商标法
 商标与艺术
 合约
-
-
-
-===
-references
-https://www.myeduhealing.com/
-https://www.retail-online.my/8-hours-fb-workshop-kl
